@@ -16,7 +16,7 @@ This repo also holds the optional metadata backing each LAND. By default each LA
      //Use any tile server, but must use ZXY of LAND
      "image": "https://a.tile.openstreetmap.org/18/77200/98507.png", 
      //Add a descriptor of your liking
-      "description": "Proof of Participation for the Cavalli Rally event : Mind the Gap", 
+      "description": "LAND on the corner of Central Park and Columbus Circle", 
       "attributes": [
       //optional 
      {
