@@ -30,7 +30,7 @@ This repo also holds the optional metadata backing each LAND. By default each LA
       //Must match contract set value
      "display_type": "number", 
      "trait_type": "z",
-     "value": 17
+     "value": 18
      },{
      //Must match your LANDs plot
      "display_type": "number",
