@@ -1,0 +1,19 @@
+{
+ "name": "0xEarth LAND", 
+ "image": "https://github.com/0xEarth-Tech/0xEarth.Branding/blob/master/ic_launcher-web-oxearth.png?raw=true", 
+  "description": "0xEarth LAND is an ERC-721 non-fungible token, which each token representing a unique parcle of earth using the ZXY tile standard. Each LAND can embed another NFT for display and advertisement purposes. The owner of a given LAND can also set it as rentable, earning income when used.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Set on the 0xEarth Github repo!"
+ }, {
+  "trait_type": "sublocale",
+  "value": "Set on the 0xEarth Github repo!"
+  }, {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 18
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
