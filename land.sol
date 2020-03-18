@@ -1,4 +1,5 @@
 pragma solidity ^0.5.9;
+pragma experimental ABIEncoderV2;
 
 import 'github.com/OpenZeppelin/openzeppelin-solidity/blob/v2.5.0/contracts/token/ERC721/ERC721Full.sol';
 import 'github.com/OpenZeppelin/openzeppelin-solidity/blob/v2.5.0/contracts/ownership/Ownable.sol';
@@ -27,6 +28,7 @@ contract TradeableERC721Token is ERC721Full, Ownable {
         uint256 rentalRate;
         uint256 rentalTime;
         string message;
+        string[] visitorNote;
     }
     
     //Object for a linked NFT
@@ -59,6 +61,8 @@ contract TradeableERC721Token is ERC721Full, Ownable {
     //rate of escrow 0xEarth takes for each NFT set during LAND rental 0.0005
     uint256 _0xEarthRentalEscrow = 500000000000000;
     
+    uint256 _visitorFee = 2000000000000000;
+    
     //URL values for creating land image uri 
     string _urlPrefix = "https://a.tile.openstreetmap.org/";
     string _urlPostfix = ".png";
@@ -68,6 +72,9 @@ contract TradeableERC721Token is ERC721Full, Ownable {
      //default metadata prefix for land 
     string _metaPrefix = "https://raw.githubusercontent.com/0xEarth-Tech/0xEarth.LAND/master/meta/";
     string _metaPostfix = ".json";
+    
+    //bool flag for controlling open LAND minting
+    bool openMintLand = false;
 
     //bool flags for adjusting open token metadata updates 
     bool canSetCustomUri = true;
@@ -85,6 +92,7 @@ contract TradeableERC721Token is ERC721Full, Ownable {
     event LandDefaultUriUpdate(string _uri);
     event LandMintDappSale(uint256 _id, uint256 _z, uint256 _x, uint256 _y);
     event LandNftSet(uint256 _tokenId, uint256 _landId, address _tokenAddress, uint256 _expirationBlock, string _imgUrl, string _metaUrl, bool _exist);
+    event UpdateLANDMintBool(bool canMintLAND);
     event UpdateDefaultCanRentBool(bool canRent);
     event UpdatedMaxBulkMint(uint256 _amount);
     event UpdatedDefaultRentalRate(uint256 _amount);
@@ -97,6 +105,7 @@ contract TradeableERC721Token is ERC721Full, Ownable {
     event UpdatedProxyAddress(address proxyAddress);
     event UpdatedGatewayAddress(address gatewayAddress);
     event UpdatedTreasuryAddress(address treasuryAddress);
+    event VisitorAddedMessage(address visitor, string msg);
 
     //All Minted land
     mapping (uint256 => LAND) _lands;
@@ -129,6 +138,7 @@ contract TradeableERC721Token is ERC721Full, Ownable {
 
     //mints a new token based on ZXY values of the land
     function mintLand(uint256 _z, uint256 _x, uint256 _y) public payable {
+        require(openMintLand == true, "Open LAND minting is not currently enabled");
         //validate transaction fees
         uint256 transactionFee = getLandFeeEth(1);
         require(msg.value >= transactionFee, "Insufficient ETH payment sent.");
@@ -158,8 +168,9 @@ contract TradeableERC721Token is ERC721Full, Ownable {
 
         //Require this to be a unique land value
         require(landIdsContains(_landId) == false);
+        string[] memory newArray;
         LAND memory land = LAND(_z, _x, _y, true, _landZXY, metaUrl, 
-        generateImageURI(_landZXY), defaultCanRent, _defaultRentalRate, _defaultRentalBlockLength, "");
+        generateImageURI(_landZXY), defaultCanRent, _defaultRentalRate, _defaultRentalBlockLength, "", newArray);
         _lands[_landId] = land;
 
         //Increment _totalSupply
@@ -172,7 +183,7 @@ contract TradeableERC721Token is ERC721Full, Ownable {
         emit LandMint(_z, _x, _y);
     }
     
-     function addLandId(uint256 landId) public {
+     function addLandId(uint256 landId) private {
         _landIds.push(landId);
     }
 
@@ -225,10 +236,10 @@ contract TradeableERC721Token is ERC721Full, Ownable {
     
     //Return meta for LandId
     function landMeta(uint256 _landId) external view returns( 
-    string memory, string memory, string memory, bool, uint256, uint256, string memory, string memory, bool){
+    string memory, string memory, string memory, bool, uint256, uint256, string memory, string memory, bool, string[] memory){
         LAND memory land = _lands[_landId];
         return (land.zxy, land.metaUrl, land.imgUrl, 
-        land.isRentable, land.rentalRate, land.rentalTime, land.message, land.message, land.isRentable);
+        land.isRentable, land.rentalRate, land.rentalTime, land.message, land.message, land.isRentable, land.visitorNote);
     }
     
    //Return meta for NFT of LAND
@@ -289,6 +300,14 @@ contract TradeableERC721Token is ERC721Full, Ownable {
          if(msg.sender == landOwner){
             _lands[_landId].message = _message;
         }
+    }
+    
+    function addVisitorNote(uint256 _landId, string memory _message) public payable {
+        require(msg.value >= _visitorFee, "Insufficient ETH payment sent.");
+        address landOwner = ownerOf(_landId);
+         address(uint160(landOwner)).transfer(msg.value);
+        _lands[_landId].visitorNote.push(_message);
+        emit VisitorAddedMessage(msg.sender, _message);
     }
 
     //For updating the meta data of a given land. 
@@ -381,6 +400,12 @@ contract TradeableERC721Token is ERC721Full, Ownable {
         NFT memory nft = NFT(_tokenId, _landId, _tokenAddress, _expirationBlock, _imgUrl, _metaUrl, true);
         _landNfts[_landId] = nft;
         emit LandNftSet(_tokenId, _landId, _tokenAddress, _expirationBlock, _imgUrl, _metaUrl, true);
+    }
+    
+    //To update the LAND minting bool
+    function updateLANDMintBool(bool _canMint) public onlyOwner{
+        openMintLand = _canMint;
+        emit UpdateLANDMintBool(_canMint);
     }
 
     //To update the default rentable bool
