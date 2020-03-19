@@ -1,0 +1,24 @@
+{
+ "name": "Grand Central Terminal", 
+ "image": "https://b.tile.openstreetmap.org/17/38601/49261.png", 
+  "description": "Grand Central Terminal of NYC", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "NYC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

@@ -1,0 +1,24 @@
+{
+ "name": "IMS : Turn 1 Entrance", 
+ "image": "https://b.tile.openstreetmap.org/17/34137/49720.png", 
+  "description": "Turn 1 Entrance at the historic Indianapolis Motor Speedway", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Indianapolis"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

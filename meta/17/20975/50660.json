@@ -1,0 +1,24 @@
+{
+ "name": "Oracle Park", 
+ "image": "https://b.tile.openstreetmap.org/17/20975/50660.png", 
+  "description": "Oracle Park of SF, home of the San Francisco Giants", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "San Francisco"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

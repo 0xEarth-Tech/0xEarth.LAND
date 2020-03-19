@@ -1,0 +1,24 @@
+{
+ "name": "Colonial Williamsburg", 
+ "image": "https://a.tile.openstreetmap.org/17/37607/50893.png", 
+  "description": "First capital of America", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Virginia"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

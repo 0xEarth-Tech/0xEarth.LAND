@@ -1,0 +1,24 @@
+{
+ "name": "Golden Gate Bridge Visitor Center : SF", 
+ "image": "https://a.tile.openstreetmap.org/17/20943/50646.png", 
+  "description": "Visitor Center on the SF side of the Golden Gate Bridge", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "San Francisco"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

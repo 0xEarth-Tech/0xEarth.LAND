@@ -1,0 +1,24 @@
+{
+ "name": "Guinness Brewery Dublin", 
+ "image": "https://b.tile.openstreetmap.org/17/63247/42489.png", 
+  "description": "Guinness Brewery of Dublin, Ireland", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Ireland"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Dublin"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

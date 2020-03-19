@@ -1,0 +1,24 @@
+{
+ "name": "Buckingham Palace", 
+ "image": "https://b.tile.openstreetmap.org/17/65484/43588.png", 
+  "description": "Buckingham Palace of London, England", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "England"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "London"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

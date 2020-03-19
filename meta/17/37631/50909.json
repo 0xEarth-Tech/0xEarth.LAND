@@ -1,0 +1,24 @@
+{
+ "name": "Busch Gardens Williamsburg Entrance", 
+ "image": "https://b.tile.openstreetmap.org/17/37631/50909.png", 
+  "description": "Entrance road to one of the largest tourist spots in Virginia, Busch Gardens Williamsburg.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Virginia"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

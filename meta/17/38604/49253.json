@@ -1,0 +1,24 @@
+{
+ "name": "Central Park : 5th Ave", 
+ "image": "https://c.tile.openstreetmap.org/17/38604/49253.png", 
+  "description": "Near the corner of Central Park and 5th", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "NYC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
