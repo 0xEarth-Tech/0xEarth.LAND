@@ -18,6 +18,16 @@
  "display_type": "number", 
  "trait_type": "z",
  "value": 17
+ }, 
+  {
+ "display_type": "number", 
+ "trait_type": "x",
+ "value": 38595
+ }, 
+  {
+ "display_type": "number", 
+ "trait_type": "y",
+ "value": 49262
  }],
  "external_url": "https://0xearth.github.io",
  "background_color": "141414"
