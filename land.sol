@@ -47,15 +47,15 @@ contract TradeableERC721Token is ERC721Full, Ownable {
     //max amount of land that can be minted from bulk function
     uint256 _maxBulkMint = 10;
     //Land resolution value (zoom level)
-    uint256 _resolutionLevel = 18;
+    uint256 _resolutionLevel = 17;
     //Early LAND for lower fee
     uint256 _earlyLANDCap = 1500;
     //Early land fee 0.008
     uint256 _earlyLANDFee = 8000000000000000;
-    //Base fee for each LAND 0.013
-    uint256 _baseLANDFee = 12500000000000000;
-    //default rental amount a LAND owner is paid 0.007
-    uint256 _defaultRentalRate = 7000000000000000;
+    //Base fee for each LAND 0.014
+    uint256 _baseLANDFee = 14000000000000000;
+    //default rental amount a LAND owner is paid 0.006
+    uint256 _defaultRentalRate = 6000000000000000;
     //default block length of a rental ~6500 blocks per day * 7 days = 45500
     uint256 _defaultRentalBlockLength = 45500;
     //rate of escrow 0xEarth takes for each NFT set during LAND rental 0.0009
