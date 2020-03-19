@@ -23,12 +23,12 @@
  "display_type": "number", 
  "trait_type": "x",
  "value": 34137
- }], 
+ }, 
   {
  "display_type": "number", 
  "trait_type": "y",
  "value": 49720
- },
+ }],
  "external_url": "https://0xearth.github.io",
  "background_color": "141414"
  }
