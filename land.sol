@@ -147,9 +147,13 @@ contract TradeableERC721Token is ERC721Full, Ownable {
     }
     
     //Helper method for owner  (DAO) to mint specific land as needed 
-    function externalMintLand(uint256 _z, uint256 _x, uint256 _y) public onlyOwner {
+    function externalMintLand(uint256 _z, uint256 _x, uint256 _y, bool _useDefault) public onlyOwner {
         string memory _landZXY = generateZXYString(_z, _x, _y);
-        internalLandMint(_z, _x, _y, _defaultUri);
+        string memory _uri = _defaultUri;
+        if(_useDefault == false){
+            _uri = generateLandURI(_landZXY);
+        }
+        internalLandMint(_z, _x, _y, _uri);
     }
     
     //Internal function to create new token with associated land  ID + meta 
