@@ -1,0 +1,34 @@
+{
+ "name": "Pacific Coast Highway : Ocean Ave", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/22390/52351.png", 
+  "description": "Pacific Coast Highway / California Incline / Ocean Ave", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Los Angeles"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 22390
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 52351
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

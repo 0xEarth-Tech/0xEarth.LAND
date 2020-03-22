@@ -1,0 +1,34 @@
+{
+ "name": "Circuit de Monaco : Rainier III Nautical", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/68238/47794.png", 
+  "description": "Rainier III Nautical at Circuit de Monaco.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Monaco"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 68238
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 47794
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

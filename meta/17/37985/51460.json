@@ -1,0 +1,34 @@
+{
+ "name": "Wright Brothers 4th Flight : Kill Devil Hill", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37985/51460.png", 
+  "description": "Location of Wright Brothers 4th Fight at Kill Devil Hill in North Carolina.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "North Carolina"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 37985
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 51460
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

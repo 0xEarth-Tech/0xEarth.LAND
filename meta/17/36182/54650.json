@@ -1,0 +1,34 @@
+{
+ "name": "NASA Launch Pad 39b", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/36182/54650.png", 
+  "description": "NASA Launch Pad 39b : Kennedy Space Center", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Florida"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 36182
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 54650
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

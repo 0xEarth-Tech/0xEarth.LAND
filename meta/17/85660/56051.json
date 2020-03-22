@@ -1,0 +1,34 @@
+{
+ "name": "Burj Khalifa", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/85660/56051.png", 
+  "description": "Burj Khalifa", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Dubai"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 85660
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 56051
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

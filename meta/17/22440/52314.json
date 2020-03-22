@@ -1,0 +1,34 @@
+{
+ "name": "Hollywood Blvd : Laurel Canyon Blvd", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/22440/52314.png", 
+  "description": "Intersection of Hollywood Blvd and Laurel Canyon Blvd.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Los Angeles"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 22440
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 52314
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

@@ -1,0 +1,34 @@
+{
+ "name": "Daytona International Speedway", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/36018/54417.png", 
+  "description": "Start / Finish, Main Front Straight, Pit lane at the Daytona International Speedway.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Daytona"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 36018
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 54417
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

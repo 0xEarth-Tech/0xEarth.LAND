@@ -1,0 +1,34 @@
+{
+ "name": "NASA : Houston", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/30912/54265.png", 
+  "description": "Visitor Center at NASA in Houston", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Houston"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 30912
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 54265
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
