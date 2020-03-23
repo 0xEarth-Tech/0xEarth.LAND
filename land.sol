@@ -137,13 +137,17 @@ contract TradeableERC721Token is ERC721Full, Ownable {
     }
 
     //mints a new token based on ZXY values of the land
-    function mintLand(uint256 _z, uint256 _x, uint256 _y) public payable {
+    function mintLand(uint256 _z, uint256 _x, uint256 _y, bool _useDefault) public payable {
         require(openMintLand == true, "Open LAND minting is not currently enabled");
         //validate transaction fees
         uint256 transactionFee = getLandFeeEth(1);
         require(msg.value >= transactionFee, "Insufficient ETH payment sent.");
-        string memory _landZXY = generateZXYString(_z, _x, _y);
-        internalLandMint(_z, _x, _y, _defaultUri);
+        string memory _uri = _defaultUri;
+        if(_useDefault == false){
+            string memory _landZXY = generateZXYString(_z, _x, _y);
+            _uri = generateLandURI(_landZXY);
+        }
+        internalLandMint(_z, _x, _y, _uri);
     }
     
     //Helper method for owner  (DAO) to mint specific land as needed 
@@ -154,6 +158,19 @@ contract TradeableERC721Token is ERC721Full, Ownable {
             _uri = generateLandURI(_landZXY);
         }
         internalLandMint(_z, _x, _y, _uri);
+    }
+    
+    //Helper method for owner  (DAO) to mint specific land as needed 
+    function bulkMintLand(uint256 _z, uint256[] memory _x, uint256[] memory _y, bool _useDefault) public onlyOwner {
+         uint256 _xLength = _x.length;
+        for (uint i=0; i < _xLength; i++) {
+            string memory _landZXY = generateZXYString(_z, _x[i], _y[i]);
+            string memory _uri = _defaultUri;
+            if(_useDefault == false){
+                _uri = generateLandURI(_landZXY);
+            }
+            internalLandMint(_z, _x[i], _y[i], _uri);
+        }
     }
     
     //Internal function to create new token with associated land  ID + meta 
