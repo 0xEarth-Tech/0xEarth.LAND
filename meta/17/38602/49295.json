@@ -1,0 +1,34 @@
+{
+ "name": "Barclays Center", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38602/49295.png", 
+  "description": "Barclays Center is a multi-purpose indoor arena in the New York City borough of Brooklyn. The arena is home to the Brooklyn Nets of the National Basketball Association, and is also one of the home arenas for the New York Islanders of the National Hockey League.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Brooklyn"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 38602
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49295
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

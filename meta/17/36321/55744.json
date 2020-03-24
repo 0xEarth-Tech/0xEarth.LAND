@@ -1,0 +1,34 @@
+{
+ "name": "Hard Rock Stadium", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/36321/55744.png", 
+  "description": "Hard Rock Stadium is a football stadium located in Miami Gardens, Florida, a city north of Miami. It is the home stadium of the Miami Dolphins of the National Football League. Hard Rock Stadium also plays host to the Miami Hurricanes football team during their regular season.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Miami"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 36321
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 55744
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
