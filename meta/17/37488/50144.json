@@ -1,0 +1,34 @@
+{
+ "name": "Washington Monument", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37488/50144.png", 
+  "description": "The Washington Monument is an obelisk on the National Mall in Washington, D.C., built to commemorate George Washington, once commander-in-chief of the Continental Army, in the American Revolutionary War and the first President of the United States.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "DC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 37488
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50144
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

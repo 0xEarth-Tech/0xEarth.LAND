@@ -1,0 +1,34 @@
+{
+ "name": "Cedar Point Main Gate", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/35433/48910.png", 
+  "description": "Cedar Point is a 364-acre amusement park located on a Lake Erie peninsula in Sandusky, Ohio. Opened in the late-1800s, it is reported to be the second-oldest operating amusement park in the United States behind Lake Compounce.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Ohio"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 35433
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 48910
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

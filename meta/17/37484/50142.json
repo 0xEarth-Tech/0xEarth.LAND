@@ -1,0 +1,34 @@
+{
+ "name": "White House Visitor Center", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37484/50142.png", 
+  "description": "The White House Visitors Office is responsible for public tours of the White House, for maintaining a facility where the public can obtain information about the White House", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "DC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 37484
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50142
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

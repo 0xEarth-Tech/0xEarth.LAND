@@ -1,0 +1,34 @@
+{
+ "name": "Jefferson Memorial", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37487/50148.png", 
+  "description": "The Jefferson Memorial is a presidential memorial built in Washington, D.C. between 1939 and 1943, under the sponsorship of President Franklin D. Roosevelt. For Roosevelt it was a suitable memorial to the Founding Father of the United States, and the founder of the Democratic-Republican Party, Thomas Jefferson.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "DC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 37487
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50148
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

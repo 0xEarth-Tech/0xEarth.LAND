@@ -1,0 +1,34 @@
+{
+ "name": "Epcot Disney World Entrance", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/35844/54754.png", 
+  "description": "Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks & seasonal special events.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Florida"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 35844
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 54754
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
