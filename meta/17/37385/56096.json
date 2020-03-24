@@ -5,14 +5,14 @@
   "attributes": [
  {
   "trait_type": "country", 
-  "value": "Earth"
+  "value": "Bahamas"
  }, {
   "trait_type": "edition", 
   "value": "First"
  }, 
  {
   "trait_type": "sublocale",
-  "value": "Edge"
+  "value": "Nassau"
   }, 
   {
  "display_type": "number", 
