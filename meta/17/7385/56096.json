@@ -1,0 +1,34 @@
+{
+ "name": "Nassau Atlantis Conference Center", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/7385/56096.png", 
+  "description": "A popular cruise-ship stop, the city has a hilly landscape and is known for beaches as well as its offshore coral reefs, popular for diving and snorkeling. It retains many of its typical pastel-colored British colonial buildings, like the pink-hued Government House.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Bahamas"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Nassau"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 7385
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 56096
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
