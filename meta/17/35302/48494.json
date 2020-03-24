@@ -1,0 +1,34 @@
+{
+ "name": "GM Renaissance Center", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/35302/48494.png", 
+  "description": "The Renaissance Center is a group of seven interconnected skyscrapers in Downtown Detroit, Michigan, United States. The Renaissance Center complex is on the Detroit International Riverfront and is owned by General Motors as its world headquarters.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Detroit"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 35302
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 48494
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

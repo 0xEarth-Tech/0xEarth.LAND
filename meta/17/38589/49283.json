@@ -1,0 +1,34 @@
+{
+ "name": "NYC Stock Exchange", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38589/49283.png", 
+  "description": "The New York Stock Exchange is an American stock exchange located at 11 Wall Street, Lower Manhattan, New York City, New York. It is by far the world's largest stock exchange by market capitalization of its listed companies at US$30.1 trillion as of February 2018.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "NYC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 38589
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49283
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

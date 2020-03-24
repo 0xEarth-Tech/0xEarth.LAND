@@ -1,0 +1,34 @@
+{
+ "name": "Space X Landing Zone 1 + 2", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/36210/54708.png", 
+  "description": "Landing Zone 1 and Landing Zone 2, also known as LZ-1 and LZ-2 respectively, are landing facilities for recovering components of SpaceX's VTVL reusable launch vehicles.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Florida"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 36210
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 54708
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

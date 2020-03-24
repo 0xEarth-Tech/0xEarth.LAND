@@ -1,0 +1,34 @@
+{
+ "name": "Scuderia Ferrari", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/69490/47389.png", 
+  "description": "Scuderia Ferrari S.p.A. is the racing division of luxury Italian auto manufacturer Ferrari and the racing team that competes in Formula One racing. The team is also nicknamed The Prancing Horse, with reference to their logo.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Italy"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Maranello"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 69490
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 47389
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

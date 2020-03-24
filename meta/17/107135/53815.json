@@ -1,0 +1,34 @@
+{
+ "name": "Wuhan South China Seafood Wholesale Market", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/107135/53815.png", 
+  "description": "Wuhan South China Seafood Wholesale Market, the assumed epicenter for Coronavirus (COVID-19)", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "China"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Wuhan"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 107135
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 53815
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

@@ -1,0 +1,34 @@
+{
+ "name": "Stonehnge", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/64871/43776.png", 
+  "description": "Stonehenge is a prehistoric monument in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of a ring of standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli (burial mounds).", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "England"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Wiltshire"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 64871
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 43776
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

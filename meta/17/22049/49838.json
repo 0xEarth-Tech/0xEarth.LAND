@@ -1,0 +1,34 @@
+{
+ "name": "Tesla Gigafactory 1", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/22049/49838.png", 
+  "description": "Tesla Giga Nevada is a lithium-ion battery and electric vehicle subassembly factory near Reno, Nevada. The facility is owned and operated by Tesla, Inc. to supply the battery packs for its electric vehicles and stationary storage systems.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Nevada"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 22049
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49838
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

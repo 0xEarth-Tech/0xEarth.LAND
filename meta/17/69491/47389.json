@@ -1,0 +1,34 @@
+{
+ "name": "Ferrari HQ Bldg", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/69491/47389.png", 
+  "description": "Ferrari is an Italian luxury sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 out of Alfa Romeo's race division as Auto Avio Costruzioni, the company built its first car in 1940.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Italy"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Maranello"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 69491
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 47389
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

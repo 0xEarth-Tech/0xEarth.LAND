@@ -1,0 +1,34 @@
+{
+ "name": "Charging Bull", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38588/49284.png", 
+  "description": "Charging Bull, sometimes referred to as the Wall Street Bull or the Bowling Green Bull, is a bronze sculpture that stands on Broadway just north of Bowling Green in the Financial District of Manhattan, New York City.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "NYC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 38588
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49284
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
