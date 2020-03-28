@@ -1,0 +1,34 @@
+{
+ "name": "Fountains of Bellagio", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/23602/51419.png", 
+  "description": "Soaring, iconic fountains featuring dramatic aquatic shows choreographed with music & lights.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Las Vegas"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 23602
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 51419
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

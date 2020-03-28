@@ -1,0 +1,34 @@
+{
+ "name": "Terrapin Point Niagara Falls", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/36746/48122.png", 
+  "description": "Parking & walking trails feature at this vista point on Goat Island for viewing Niagara Falls.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "New York"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 36746
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 48122
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

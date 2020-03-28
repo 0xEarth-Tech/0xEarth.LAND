@@ -1,0 +1,34 @@
+{
+ "name": "Bryant Park", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38599/49260.png", 
+  "description": "Bryant Park is a 9.6-acre public park located in the New York City borough of Manhattan. Privately managed, it is located between Fifth Avenue and Avenue of the Americas and between 40th and 42nd Streets in Midtown Manhattan", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "New York"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 38599
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49260
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

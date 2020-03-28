@@ -1,0 +1,34 @@
+{
+ "name": "Hogsmeade station", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/35872/54713.png", 
+  "description": "Hogsmeade station is a “tiny, dark platform” where the Hogwarts Express ends its journey north from Platform Nine-And-Three-Quarters.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Florida"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 35872
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 54713
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

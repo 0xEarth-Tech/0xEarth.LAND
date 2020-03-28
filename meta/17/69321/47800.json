@@ -1,0 +1,34 @@
+{
+ "name": "Leaning Tower of Pisa", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/69321/47800.png", 
+  "description": "The Leaning Tower of Pisa or simply the Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Italy"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Pisa"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 69321
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 47800
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

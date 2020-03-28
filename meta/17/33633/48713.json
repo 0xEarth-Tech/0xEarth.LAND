@@ -1,0 +1,34 @@
+{
+ "name": "Cloud Gate", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/33633/48713.png", 
+  "description": "Huge outdoor sculpture shaped like a bean & allowing for views from its many mirrored sides.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Chicago"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 33633
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 48713
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

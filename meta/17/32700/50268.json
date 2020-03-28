@@ -1,0 +1,34 @@
+{
+ "name": "The Gateway Arch", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/32700/50268.png", 
+  "description": "The Gateway Arch is a 630-foot monument in St. Louis, Missouri, United States. Clad in stainless steel and built in the form of a weighted catenary arch, it is the world's tallest arch, the tallest man-made monument in the Western Hemisphere, and Missouri's tallest accessible building.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "First"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Missouri"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 32700
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50268
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
