@@ -1,0 +1,34 @@
+{
+ "name": "Eiffel Tower", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/66371/45091.png", 
+  "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "France"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Paris"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 66371
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 45091
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

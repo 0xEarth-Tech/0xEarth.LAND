@@ -1,0 +1,34 @@
+{
+ "name": "Acropolis of Athens", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/74174/50571.png", 
+  "description": "Ruins of iconic 5th-century B.C. temple complex on Athens' rocky hilltop undergoing restoration.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Greece"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Athens"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 74174
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50571
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
