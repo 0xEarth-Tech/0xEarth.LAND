@@ -1,0 +1,34 @@
+{
+ "name": "Alcatraz Island", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/20963/50638.png", 
+  "description": "Alcatraz Island is located in San Francisco Bay, 1.25 miles offshore from San Francisco, California, United States. The small island was developed with facilities for a lighthouse, a military fortification, a military prison, and a federal prison from 1934 until 21 March 1963.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "California"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 20963
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50638
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

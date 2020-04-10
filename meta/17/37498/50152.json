@@ -1,0 +1,34 @@
+{
+ "name": "Nationals Park", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37498/50152.png", 
+  "description": "Nationals Park is a baseball park along the Anacostia River in the Navy Yard neighborhood of Washington, D.C. It is the home ballpark for Washington Nationals", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "DC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 37498
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50152
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

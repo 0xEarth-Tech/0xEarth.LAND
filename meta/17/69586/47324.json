@@ -1,0 +1,34 @@
+{
+ "name": "Automobili Lamborghini SpA", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/69586/47324.png", 
+  "description": "Automobili Lamborghini S.p.A. is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Italy"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Sant'Agata Bolognese"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 69586
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 47324
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

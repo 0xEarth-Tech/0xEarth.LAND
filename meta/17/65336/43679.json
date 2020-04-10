@@ -1,0 +1,34 @@
+{
+ "name": "McLaren Technology Centre", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/65336/43679.png", 
+  "description": "The McLaren Technology Centre is the headquarters of the McLaren Group and its subsidiaries,The main building is a large, roughly semi-circular, glass-walled building, designed by the architect Norman Foster and his company.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United Kingdom"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Woking"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 65336
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 43679
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
