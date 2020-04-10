@@ -1,0 +1,34 @@
+{
+ "name": "Brooklyn Bridge Park", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38594/49285.png", 
+  "description": "Brooklyn Bridge Park is an 85-acre park on the Brooklyn side of the East River in New York City. Designed by landscape architecture firm Michael Van Valkenburgh Associates", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "NYC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 38594
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49285
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
