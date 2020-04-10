@@ -1,0 +1,34 @@
+{
+ "name": "Manhattan Bridge : FDR Dr", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38593/49282.png", 
+  "description": "Opened in 1909, this suspension bridge between Brooklyn & Manhattan is known for its ornate portal.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "NYC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 38593
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49282
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
