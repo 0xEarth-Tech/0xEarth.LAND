@@ -1,0 +1,34 @@
+{
+ "name": "Brooklyn Bridge Park - Pier 1", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38595/49285.png", 
+  "description": "Lively riverside park featuring skyline views, a playground, granite steps & a lemonade stand.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "NYC"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+  {
+ "display_type": "number", 
+ "trait_type": "x",
+ "value": 38595
+ }, 
+  {
+ "display_type": "number", 
+ "trait_type": "y",
+ "value": 49285
+ }],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
