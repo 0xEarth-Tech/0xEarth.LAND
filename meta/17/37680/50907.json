@@ -1,7 +1,7 @@
 {
- "name": "Miamarina At Bayside", 
- "image": "https://maps.wikimedia.org/osm-intl/17/36341/55816.png", 
-  "description": "Miamarina at Bayside is located in Downtown Miami on the Intracoastal Waterway in the middle of Miami. It’s a small deepwater slip marina in the Bayside Marketplace a city center of stores, restaurants and alongside the American Airlines Arena.", 
+ "name": "Yorktown Beach", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37680/50907.png", 
+  "description": "Located in Historic Yorktown, this 2-acre public beachfront caters to family fun", 
   "attributes": [
  {
   "trait_type": "country", 
@@ -12,7 +12,7 @@
  }, 
  {
   "trait_type": "sublocale",
-  "value": "Miami"
+  "value": "Virginia"
   }, 
   {
  "display_type": "number", 
@@ -22,12 +22,12 @@
  {
 "display_type": "number", 
 "trait_type": "x",
-"value": 36341
+"value": 37680
 }, 
 {
 "display_type": "number", 
 "trait_type": "y",
-"value": 55816
+"value": 50907
 }],
  "external_url": "https://0xearth.github.io",
  "background_color": "141414"
