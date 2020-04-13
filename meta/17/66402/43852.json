@@ -1,0 +1,34 @@
+{
+ "name": "Mémorial des Alliés", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/66402/43852.png", 
+  "description": "The Mémorial des Alliés (Memorial to the Allies) is made from paving stones from the harbor quayside. It commemorates the courage of the Allied troops during the Dynamo operation.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "France"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Dunkirk"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 66402
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 43852
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

@@ -1,0 +1,34 @@
+{
+ "name": "Santa Monica Pier", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/22391/52355.png", 
+  "description": "The Santa Monica Pier is a large double-jointed pier at the foot of Colorado Avenue in Santa Monica, California, United States. It contains a small amusement park, concession stands, and areas for views and fishing.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "California"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 22391
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 52355
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

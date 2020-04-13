@@ -1,0 +1,34 @@
+{
+ "name": "Heritage Field", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38619/49225.png", 
+  "description": "Park on 10.78 acres on the grounds of former Yankee Stadium, with an outline of the historic field.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "The Bronx"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 38619
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 49225
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

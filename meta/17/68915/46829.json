@@ -1,0 +1,34 @@
+{
+ "name": "Autodromo Nazionale di Monza", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/68915/46829.png", 
+  "description": "The Autodromo Nazionale di Monza is a historic race track near the city of Monza, north of Milan, in Italy. Built in 1922, it is the world's third purpose-built motor racing circuit after those of Brooklands and Indianapolis. The circuit's biggest event is the Formula One Italian Grand Prix.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Italy"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Monza"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 68915
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 46829
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

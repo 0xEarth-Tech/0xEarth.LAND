@@ -1,0 +1,34 @@
+{
+ "name": "Chaos Corner : RIR", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37347/50746.png", 
+  "description": "Richmond Raceway is a 0.75 miles, D-shaped, asphalt race track located just outside Richmond, Virginia in unincorporated Henrico County. It hosts the NASCAR Cup Series, NTT IndyCar Series, NASCAR Xfinity Series and the NASCAR Gander RV & Outdoors Truck Series.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Virginia"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 37347
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 50746
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

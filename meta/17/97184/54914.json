@@ -1,0 +1,34 @@
+{
+ "name": "Mt Everest Peak", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/97184/54914.png", 
+  "description": "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The international border between Nepal and China runs across its summit point.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Himalayas"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Mahalangur Himal"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 97184
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 54914
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

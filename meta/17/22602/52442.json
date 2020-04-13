@@ -1,0 +1,34 @@
+{
+ "name": "Disneyland Resort Entrance", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/22602/52442.png", 
+  "description": "Whimsical resort offering 2 theme parks, character dining & live entertainment, plus fireworks.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "California"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 22602
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 52442
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

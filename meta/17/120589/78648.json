@@ -1,0 +1,34 @@
+{
+ "name": "Sydney Harbour Bridge", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/120589/78648.png", 
+  "description": "The Sydney Harbour Bridge is an Australian heritage-listed steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district (CBD) and the North Shore. The view of the bridge, the harbour, and the nearby Sydney Opera House is widely regarded as an iconic image of Sydney, and of Australia itself. The bridge is nicknamed The Coathanger because of its arch-based design.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Australia"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Sydney"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 120589
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 78648
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

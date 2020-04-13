@@ -1,0 +1,34 @@
+{
+ "name": "Fort Monroe", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/37754/51015.png", 
+  "description": "Landmark site with a long history including Native Americans, the Civil War & U.S. Army training.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Virginia"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 37754
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 51015
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

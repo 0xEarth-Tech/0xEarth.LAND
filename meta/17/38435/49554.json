@@ -1,0 +1,34 @@
+{
+ "name": "Disneyland Tokyo : 東京ディズニーランド", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/116465/51635.png", 
+  "description": "Tokyo offshoot of the iconic theme park known for its rides, live shows & costumed characters.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Japan"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Tokyo"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 116465
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 51635
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

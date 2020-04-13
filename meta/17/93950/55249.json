@@ -1,0 +1,34 @@
+{
+ "name": "Taj Mahal Garden", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/93950/55249.png", 
+  "description": "Marble & sandstone building & architectural counterbalance to the mosque in the Taj Mahal complex.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "India"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Agra"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 93950
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 55249
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

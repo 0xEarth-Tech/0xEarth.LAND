@@ -1,0 +1,34 @@
+{
+ "name": "Fenway Park", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/39650/48486.png", 
+  "description": "Fenway Park is a baseball park located in Boston, Massachusetts, near Kenmore Square. Since 1912, it has been the home for the Boston Red Sox, the city's American League baseball team, and since 1953, its only Major League Baseball franchise", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Boston"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 39650
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 48486
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

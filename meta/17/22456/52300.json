@@ -1,0 +1,34 @@
+{
+ "name": "Hollywood Sign", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/22456/52300.png", 
+  "description": "The Hollywood Sign: It's more than just nine white letters spelling out a city's name; it's one of the world's most evocative symbols – a universal metaphor for ambition, success, glamour...for this dazzling place, industry and dream we call H-O-L-L-Y-W-O-O-D", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "California"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 22456
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 52300
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

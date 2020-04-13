@@ -1,0 +1,34 @@
+{
+ "name": "Miamarina At Bayside", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/36341/55816.png", 
+  "description": "Miamarina at Bayside is located in Downtown Miami on the Intracoastal Waterway in the middle of Miami. It’s a small deepwater slip marina in the Bayside Marketplace a city center of stores, restaurants and alongside the American Airlines Arena.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Miami"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 36341
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 55816
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }

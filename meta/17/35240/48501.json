@@ -1,0 +1,34 @@
+{
+ "name": "Ford World Headquarters", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/35240/48501.pngg", 
+  "description": "The Ford World Headquarters, also known as the Henry Ford II World Center and popularly known as the Glass House, is the administrative headquarters for Ford Motor Company, a 12-story, glass-faced office building designed to accommodate a staff of approximately 3,000.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "United States"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "Michigan"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 35240
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 48501
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
