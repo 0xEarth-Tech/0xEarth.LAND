@@ -1,0 +1,34 @@
+{
+ "name": "Southern Cross Drive", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/120589/78684.png", 
+  "description": "The Southern Cross Drive is a 4.8 km (3 mi) dual carriage untolled motorway in Sydney, New South Wales, Australia. Part of the M1 and Sydney Orbital Network, the road, a freeway that opened in 1969, links the Eastern Distributor and South Dowling Street at Kensington in the north to General Holmes Drive at Sydney Airport in the south.", 
+  "attributes": [
+ {
+  "trait_type": "country", 
+  "value": "Australia"
+ }, {
+  "trait_type": "edition", 
+  "value": "Second"
+ }, 
+ {
+  "trait_type": "sublocale",
+  "value": "New South Wales"
+  }, 
+  {
+ "display_type": "number", 
+ "trait_type": "z",
+ "value": 17
+ }, 
+ {
+"display_type": "number", 
+"trait_type": "x",
+"value": 120589
+}, 
+{
+"display_type": "number", 
+"trait_type": "y",
+"value": 78684
+}],
+ "external_url": "https://0xearth.github.io",
+ "background_color": "141414"
+ }
