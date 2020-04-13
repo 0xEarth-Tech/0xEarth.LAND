@@ -1,18 +1,18 @@
 {
- "name": "Disneyland Tokyo : 東京ディズニーランド", 
- "image": "https://maps.wikimedia.org/osm-intl/17/116465/51635.png", 
-  "description": "Tokyo offshoot of the iconic theme park known for its rides, live shows & costumed characters.", 
+ "name": "Kingda Ka", 
+ "image": "https://maps.wikimedia.org/osm-intl/17/38435/49554.png", 
+  "description": "Among the world’s tallest & fastest, this roller coaster reaches 128 miles per hour & drops 456 ft.", 
   "attributes": [
  {
   "trait_type": "country", 
-  "value": "Japan"
+  "value": "United States"
  }, {
   "trait_type": "edition", 
   "value": "Second"
  }, 
  {
   "trait_type": "sublocale",
-  "value": "Tokyo"
+  "value": "New Jersey"
   }, 
   {
  "display_type": "number", 
@@ -22,7 +22,7 @@
  {
 "display_type": "number", 
 "trait_type": "x",
-"value": 116465
+"value": 49554
 }, 
 {
 "display_type": "number", 
